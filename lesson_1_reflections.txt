@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+1. if one of the file is correct, then the errors should be introduced in another one
+2. the code in another file that remains in the correct file should be correct
+3. only the newly added ones are likely to have bugs in them
+4. find those newly added code and that narrows down the amount of code we need to read

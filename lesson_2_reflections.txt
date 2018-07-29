@@ -1,0 +1,5 @@
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use Git for keeping track of the revision history
+
+What happens when you initialize a repository? Why do you need to do it?
+a .git directory will be created in the file directory. To locate the directory where version control will be tracking it.
